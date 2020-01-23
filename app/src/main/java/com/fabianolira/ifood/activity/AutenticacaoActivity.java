@@ -62,6 +62,7 @@ public class AutenticacaoActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
+
                 String email = campoEmail.getText().toString();
                 String senha = campoSenha.getText().toString();
 
